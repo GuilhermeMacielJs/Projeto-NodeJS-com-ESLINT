@@ -1,2 +1,1 @@
-# RENTAX
-Botcamp Ignite (nodejs) - Rocketseat
+Modelo NodeJS com ESlint
